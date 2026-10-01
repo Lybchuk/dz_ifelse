@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dz_ifelse/dz_ifelse.vcxproj" Id="ca14009b-c129-476c-913c-14999c797d16" />
+</Solution>
